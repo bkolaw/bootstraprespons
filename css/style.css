@@ -1,0 +1,21 @@
+.row {
+    font-size: 100px;
+    color: orange;
+}
+
+.naglowek {
+    font-size: 100px;
+    color: grey;
+    text-align: center;
+    margin-top: 100px;
+}
+
+hr {
+    width: 40%;
+}
+
+.czcionka {
+    font-size: 20px;
+}
+
+    
